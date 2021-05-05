@@ -51,11 +51,15 @@ Viewer可以用来看输出的效果，SDK里面包含Viewer和Quality Tool
 
 接口工作量估计不小
 
+
+
 ## 软件方案
 
 Unity或UE游戏引擎
 
 可能需要仔细考虑怎么映射
+
+https://docs.unity3d.com/Manual/class-Camera.html
 
 ## 硬件方案一
 
