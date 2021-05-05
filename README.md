@@ -61,11 +61,15 @@ Unity或UE游戏引擎
 
 https://docs.unity3d.com/Manual/class-Camera.html
 
+
+
 ## 硬件方案一
 
 1080p摄像头 + 投影
 
 追踪头部位置
+
+
 
 ## 硬件方案二
 
@@ -74,3 +78,5 @@ Realsense D435i + 32寸4k 60Hz面板 + UR机械臂（最多可以有两组）
 可以做眼动，即捕捉看的方向
 
 https://eyeware.tech/gazesense/
+
+暂时还是放弃机械臂，工作量太大了。
