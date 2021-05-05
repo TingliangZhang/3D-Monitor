@@ -25,7 +25,7 @@
 
 
 
-Realsense相关
+## Realsense相关
 
 软件
 
@@ -33,13 +33,23 @@ Intel® RealSense™ SDK 2.0 (v2.44.0)
 
 https://github.com/IntelRealSense/librealsense/releases
 
-Viewer可以用来看输出的效果
+Viewer可以用来看输出的效果，SDK里面包含Viewer和Quality Tool
+
+
+
+## 摄像头获取头部位置
+
+[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 
 
 ## 基本原理
 
-视错觉，包括
+视错觉，最好包括角度和景深。
+
+图形得好好设计，为了观感更好。
+
+接口工作量估计不小
 
 ## 软件方案
 
