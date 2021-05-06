@@ -41,6 +41,37 @@ Viewer可以用来看输出的效果，SDK里面包含Viewer和Quality Tool
 
 [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
+安装opencv-python
+
+```shell
+pip3 install opencv-python
+```
+
+跑exe Demo失败
+
+```sh
+PS C:\Users\ztl20\Downloads\openpose> bin\OpenPoseDemo.exe --face --hand
+Starting OpenPose demo...
+Configuring OpenPose...
+Starting thread(s)...
+Auto-detecting camera index... Detected and opened camera 0.
+Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting at GPU 0.
+F0506 16:29:05.468179 19928 syncedmem.cpp:71] Check failed: error == cudaSuccess (2 vs. 0)  out of memory
+*** Check failure stack trace: ***
+```
+
+显卡内存报错，估计是到集显上面了
+
+https://blog.csdn.net/qq_44001342/article/details/105900378
+
+还是要重新build
+
+
+
+Unity的插件
+
+https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
+
 
 
 ## 基本原理
