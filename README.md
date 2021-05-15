@@ -3,7 +3,21 @@
 
 
 
-想法来源：
+## 新提案
+
+壁画、版画
+
+可变、有版权库、立体艺术、立体NFT艺术终端
+
+图像分割制作终端
+
+https://www.boe.com/CustomerProducts/BOEiGalleryS3
+
+
+
+
+
+## 想法来源
 
 [Box](https://youtu.be/lX6JcybgDFo)
 
