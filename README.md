@@ -1,6 +1,10 @@
 # 3D-Monitor
 3D显示效果
 
+https://lookingglassfactory.com/
+
+多人，怎么做到的。
+
 
 
 ## 新提案
