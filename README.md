@@ -7,6 +7,10 @@ https://lookingglassfactory.com/
 
 
 
+决定直接用摄像头，摄像头提取人脸位置（最好是3D位置），放到Unity接口里面映射摄像头位置
+
+
+
 ## 新提案
 
 壁画、版画
