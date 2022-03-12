@@ -11,16 +11,6 @@ https://lookingglassfactory.com/
 
 
 
-## 技术方案参考
-
-我们需要的是real time face detection
-
-
-
-[机器视觉（4）-- 云台人脸追踪_Techblog of HaoWANG ...](https://blog.csdn.net/hhaowang/article/details/88064497)
-
-
-
 ## 新提案
 
 壁画、版画
@@ -143,3 +133,6 @@ Realsense D435i + 32寸4k 60Hz面板 + UR机械臂（最多可以有两组）
 https://eyeware.tech/gazesense/
 
 暂时还是放弃机械臂，工作量太大了。
+
+
+
